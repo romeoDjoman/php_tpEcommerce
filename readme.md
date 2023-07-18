@@ -13,8 +13,8 @@ Pages visibles par l'administrateur uniquement
 - Page gestion des articles : ajout/suppression d'articles
 
 Pour se connecter en tant que Administrateur
-- Pseudo: pseudoAdmin
-- Mot de passe : Admin!1234
+- Pseudo: `pseudoAdmin`
+- Mot de passe : `Admin!1234`
 
 Pour se connecter en tant que Utilisateur (client)
 - Pseudo: pseudoUser
