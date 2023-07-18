@@ -17,9 +17,9 @@ Pour se connecter en tant que Administrateur
 - Mot de passe : `Admin!1234`
 
 Pour se connecter en tant que Utilisateur (client)
-- Pseudo: pseudoUser
-- Mot de passe : User!1234
+- Pseudo: `pseudoUser`
+- Mot de passe : `User!1234`
 
 Statut dans la Bdd (tic_site)
-Admin : $statut == 1
-Client : $statut == 0 ou null
+`Admin : $statut == 1`
+`Client : $statut == 0 ou null`
